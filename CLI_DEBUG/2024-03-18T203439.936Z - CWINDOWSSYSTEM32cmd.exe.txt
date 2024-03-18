@@ -1,0 +1,81 @@
+]0;C:\WINDOWS\SYSTEM32\cmd.exe - C:\Users\markd\AppData\Local\Programs\Tabby\resources\extras\clink\clink_x64.exe  injectClink v1.6.9.242b68
+Copyright (c) 2012-2018 Martin Ridgers
+Portions Copyright (c) 2020-2024 Christopher Antos
+https://github.com/chrisant996/clink;1H]0;C:\WINDOWS\SYSTEM32\cmd.exeC:\Users\markd>;5;33mgit;5;222m config --global user.emailClink v1.6.9.242b68
+Copyright (c) 2012-2018 Martin Ridgers
+Portions Copyright (c) 2020-2024 Christopher Antos
+https://github.com/chrisant996/clink
+
+C:\Users\markd>;5;33mgit;5;222m config --global user.email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;46HClink v1.6.9.242b68
+Copyright (c) 2012-2018 Martin Ridgers
+Portions Copyright (c) 2020-2024 Christopher Antos
+https://github.com/chrisant996/clink
+
+C:\Users\markd>;5;33mgit;5;222m config --global user.email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;46H;5;222m ;5;222mapkmodsforum@gmail.com
+]0;C:\WINDOWS\SYSTEM32\cmd.exe - git  config --global user.email apkmodsforum@gmail.com
+C:\Users\markd>]0;C:\WINDOWS\SYSTEM32\cmd.exe;5;33mgit;5;222m config --global user.email apkmodsforum@gmail.com
+]0;C:\WINDOWS\SYSTEM32\cmd.exe - git  config --global user.email apkmodsforum@gmail.com
+C:\Users\markd>]0;C:\WINDOWS\SYSTEM32\cmd.exe;5;33mgit;5;222m config --global user.email "email@example.com"
+]0;C:\WINDOWS\SYSTEM32\cmd.exe - git  config --global user.email "email@example.com"]0;C:\WINDOWS\SYSTEM32\cmd.exe
+C:\Users\markd>;5;33mgit;5;222m config --global user.email "email@example.com"
+]0;C:\WINDOWS\SYSTEM32\cmd.exe - git  config --global user.email "email@example.com"
+C:\Users\markd>]0;C:\WINDOWS\SYSTEM32\cmd.exe^C
+C:\Users\markd>;5;33mgit;5;222m config --global user.email "email@example.com"
+]0;C:\WINDOWS\SYSTEM32\cmd.exe - git  config --global user.email "email@example.com"
+C:\Users\markd>]0;C:\WINDOWS\SYSTEM32\cmd.exe;5;33mgit;5;222m config --global user.email "email@example.com"
+]0;C:\WINDOWS\SYSTEM32\cmd.exe - git  config --global user.email "email@example.com"
+]0;C:\WINDOWS\SYSTEM32\cmd.exeC:\Users\markd>;5;33mgit;5;222m config --global user.email "email@example.com";5;239m"Right=]8;id=25908-1;https://chrisant996.github.io/clink/clink.html#gettingstarted_autosuggest\Accept Suggestion]8;;\ ;65H;5;239m;5;239m;5;239m;5;239m.;5;239m;5;239ml;5;239mp;5;239m;5;239m;5;239mx;5;239m;5;239m@;5;239ml;5;239m;5;239m;5;239m;5;239m;5;222ma;5;239mMDRM_Install.logRight=]8;id=25908-2;https://chrisant996.github.io/clink/clink.html#gettingstarted_autosuggest\Accept Suggestion]8;;\ ;49H;5;222mp;5;239mpData\Right=]8;id=25908-3;https://chrisant996.github.io/clink/clink.html#gettingstarted_autosuggest\Accept Suggestion]8;;\ ;50H;5;222mk;5;239mpData\Right=]8;id=25908-4;https://chrisant996.github.io/clink/clink.html#gettingstarted_autosuggest\Accept Suggestion]8;;\ ;50H;5;239mDRM_Install.log;49H;5;239mmail@example.com"Right=]8;id=25908-5;https://chrisant996.github.io/clink/clink.html#gettingstarted_autosuggest\Accept Suggestion]8;;\ ;48H;5;239m";5;222ma;5;239mpkmodsforum@gmail.comRight=]8;id=25908-6;https://chrisant996.github.io/clink/clink.html#gettingstarted_autosuggest\Accept Suggestion]8;;\ ;48H;5;222mMDRM_Install.log;5;239mRight=]8;id=25908-7;https://chrisant996.github.io/clink/clink.html#gettingstarted_autosuggest\Accept Suggestion]8;;\ ;63H;5;239m;5;239ml;5;239m.;5;239ml;5;239ml;5;239m;5;239mt;5;239ms;5;239m;5;239m;5;239m_;5;239m;5;239mR;5;239m;5;239mpkmodsforum@gmail.com;48H;5;222mpkmodsforum@gmail.com
+]0;C:\WINDOWS\SYSTEM32\cmd.exe - git  config --global user.email apkmodsforum@gmail.com
+C:\Users\markd>]0;C:\WINDOWS\SYSTEM32\cmd.exe
